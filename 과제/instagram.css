@@ -165,6 +165,7 @@ img.icon {
   display: flex;
   gap: 15px;
   padding-top: 9px;
+  display: flex;
 }
 
 #feed-emoji > img {
